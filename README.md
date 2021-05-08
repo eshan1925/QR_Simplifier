@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+This app can be used to generate and scan qr code using your mobile.
+As the name suggests this is really a qr simplifier.
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
